@@ -48,7 +48,7 @@ namespace Nested_Loop
 
             // Write a program that take 2 input to
             // Odd numbers scanner between two numbers input from user ex: 2, 6
-            Console.WriteLine("Hello, programmer");
+            /*Console.WriteLine("Hello, programmer");
             Console.WriteLine("Enter your first number:");
             int fN = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter your last number:");
@@ -68,6 +68,15 @@ namespace Nested_Loop
                     Console.WriteLine(i + "- Odd number");
                 }
 
+            }*/
+
+            for (int i = 1; i <= 5; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
             }
 
         }
