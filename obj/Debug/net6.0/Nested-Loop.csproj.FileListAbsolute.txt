@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\bin\Debug\net6.0\Nested-Loop.exe
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\bin\Debug\net6.0\Nested-Loop.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\bin\Debug\net6.0\Nested-Loop.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\bin\Debug\net6.0\Nested-Loop.dll
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\bin\Debug\net6.0\Nested-Loop.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.dll
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\refint\Nested-Loop.dll
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\Nested-Loop.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Nested-Loop\Nested-Loop\obj\Debug\net6.0\ref\Nested-Loop.dll
